@@ -1,2 +1,2 @@
-# Intro-page
-Read my carrd before you int !!
+# note
+read my carrd before you int !
